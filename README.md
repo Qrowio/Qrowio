@@ -16,5 +16,5 @@ I'm a 17 year old student with a huge interest in website development. I usually
 
 ### Contact ###
 
-Mail: me@qrow.dev
+Mail: me@qrow.dev  
 Discord: Qrow#7606
