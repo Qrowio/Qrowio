@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi! I'm Qrow. 👋 ##
 
-<!--
-**Qrowio/Qrowio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 17 year old student with a huge interest in website development. I usually use a mixture of HTML5, CSS3 and Javascript to get my work done but have been advancing more into backend and new technologies! I have recently found a new interest in certain parts of website development that I 
 
-Here are some ideas to get you started:
+### Experience ###
+  * HTML5
+  * CSS3
+  * Bootstrap
+  * Tailwind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning ###
+  * PHP
+  * Javascript
+  * NodeJS
+  * ReactJS
+
+### Contact ###
+
+Mail: me@qrow.dev
+Discord: Qrow#7606
