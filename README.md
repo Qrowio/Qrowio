@@ -1,6 +1,6 @@
 ## Hi! I'm Qrow. 👋 ##
 
-I'm a 17 year old student with a huge interest in website development. I usually use a mixture of HTML5, CSS3 and Javascript to get my work done but have been advancing more into backend and new technologies! I have recently found a new interest in certain parts of website development that I 
+I'm a 17 year old student with a huge interest in website development. I usually use a mixture of HTML5, CSS3 and Javascript to get my work done but have been advancing more into backend and new technologies!
 
 ### Experience ###
   * HTML5
