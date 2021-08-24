@@ -16,7 +16,7 @@ Welcome to my GitHub. I'm a 17 year old Computer Science student with a huge int
   * PostgreSQL
 
 ### Current Projects ###
-  * FindMe (Not official name) (Project for a paid portfolio website which I may end up just open sourcing)
+  * Irusu (Project for a paid portfolio website which I may end up just open sourcing)
   * Sellz (Not official name) (Project for an E-Commerce website)
 
 ### Contact ###
