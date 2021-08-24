@@ -11,7 +11,8 @@ Welcome to my GitHub. I'm a 17 year old Computer Science student with a huge int
   * Bootstrap
 
 ### Currently learning ###
-  * NodeJS
+  * PHP
+  * Laravel
   * MongoDB
   * PostgreSQL
 
